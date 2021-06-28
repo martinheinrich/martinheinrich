@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Martin HEINRICH, office@martinheinrich
+- 👋 Hi, I’m Martin HEINRICH
 - 👀 I’m interested in Programming and SQL Databases
-- 🌱 I’m currently learning - all of them
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: via mail
+- 🌱 I’m currently learning - php, ubuntu server, mysql
+- 💞️ I’m looking to collaborate on KVMAPP 
+- 📫 How to reach me: office@martin-heinrich.at 
 
 <!---
 martinheinrich/martinheinrich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
