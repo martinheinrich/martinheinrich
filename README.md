@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Martin HEINRICH
 - 👀 I’m interested in Programming and SQL Databases
-- 🌱 I’m currently learning - php, ubuntu server, mysql
+- 🌱 I’m currently learning - JavaScritp/TypeScript, ubuntu server, mysql
 - 💞️ I’m looking to collaborate on KVMAPP 
 - 📫 How to reach me: office@martin-heinrich.at 
 
